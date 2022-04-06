@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Andi!</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">My name is Andres, but you can call me Andi :blush: I’m a certified Data Scientist with a keen interest in harassing the impact data can have in our daily lives. I’ve recently worked on a number of projects focused on Natural Language processing, Neural Networks and other supervised machine learning techniques. I have 7+ years experience with data analysis across various sectors including healthcare, non-profit, environmental, and government.</h3>
 
 - 📝 I regularly write articles on Medium [https://medium.com/@andresmvidaurre](https://medium.com/@andresmvidaurre)
 
