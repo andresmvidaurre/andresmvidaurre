@@ -4,27 +4,27 @@ I’m a certified Data Scientist :computer: with a keen interest in harassing th
 
 I’m a very curious person with a constant hunger for learning :memo: 𝘾𝙪𝙧𝙧𝙚𝙣𝙩 𝙏𝙚𝙘𝙝 𝙨𝙩𝙖𝙘𝙠:
 
-:bar_chart: Python
+- :bar_chart: Python
 
-:bar_chart: Tableau
+- :bar_chart: Tableau
 
-:bar_chart: SQL, MySQL, SQLite, PostgreSQL, SQLAlchemy
+- :bar_chart: SQL, MySQL, SQLite, PostgreSQL, SQLAlchemy
 
-:bar_chart: MongoDB, Non-relational Databases
+- :bar_chart: MongoDB, Non-relational Databases
 
-:bar_chart: Natural Language Processing
+- :bar_chart: Natural Language Processing
 
-:bar_chart: Neural Networks
+- :bar_chart: Neural Networks
 
-:bar_chart: Pandas, Numpy, Regular Expressions, Matplotlib, Seaborn, Plotly, Scikit-learn, XGBoost, TensorFlow, spaCy, PyTorch, Keras
+- :bar_chart: Pandas, Numpy, Regular Expressions, Matplotlib, Seaborn, Plotly, Scikit-learn, XGBoost, TensorFlow, spaCy, PyTorch, Keras
 
-:bar_chart: Flask
+- :bar_chart: Flask
 
-:bar_chart: Heroku
+- :bar_chart: Heroku
 
-:bar_chart: Docker
+- :bar_chart: Docker
 
-:bar_chart: VS Code
+- :bar_chart: VS Code
 
 
 
@@ -36,7 +36,6 @@ When I’m not behind a screen, I love capturing the world through my camera :ca
 - 📝 I regularly write articles on [Medium](https://medium.com/@andresmvidaurre)
 - 👯 I’m looking to collaborate on a webscraping and machine learning app that recognizes architecture styles based on user input.
 - 💬 Ask me about my trip to Spain! :es:
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andresvidaurre/) or [email](andresmvidaurre@gmail.com)
 - 😄 Pronouns: they/them/theirs
 - ⚡ Fun fact :shower: **showers help with creativity!**
 
