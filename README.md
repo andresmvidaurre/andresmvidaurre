@@ -23,7 +23,7 @@ I’m currently looking for opportunities where I can leverage my experience wit
 When I’m not behind a screen, I love capturing the world through my camera, catching up with friends on hikes and discovering new artists. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/andresvidaurre/) or [email](andresmvidaurre@gmail.com), I’d love to chat!
 
 
-- 📝 I regularly write articles on Medium [https://medium.com/@andresmvidaurre](https://medium.com/@andresmvidaurre)
+- 📝 I regularly write articles on [Medium](https://medium.com/@andresmvidaurre)
 - 👯 I’m looking to collaborate on a webscraping and machine learning app that recognizes architecture styles based on user input.
 - 💬 Ask me about my trip to Spain! :sunny:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andresvidaurre/) or [email](andresmvidaurre@gmail.com)
