@@ -1,8 +1,5 @@
 ### Hi there 👋 I'm Andi!
 
-<!--
-**andresmvidaurre/andresmvidaurre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 👯 I’m looking to collaborate on a webscraping and machine learning app that recognizes architecture styles based on user input.
 - 💬 Ask me about my trip to Spain! :sunny:
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andresvidaurre/) or [email](andresmvidaurre@gmail.com)
