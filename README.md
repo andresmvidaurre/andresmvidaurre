@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Andi!</h1>
-<h3 align="center">My name is Andres, but you can call me Andi :blush: I’m a certified Data Scientist with a keen interest in harassing the impact data can have in our daily lives. I’ve recently worked on a number of projects focused on Natural Language processing, Neural Networks and other supervised machine learning techniques. I have 7+ years experience with data analysis across various sectors including healthcare, non-profit, environmental, and government.</h3>
+
+
 
 - 📝 I regularly write articles on Medium [https://medium.com/@andresmvidaurre](https://medium.com/@andresmvidaurre)
+- 👯 I’m looking to collaborate on a webscraping and machine learning app that recognizes architecture styles based on user input.
+- 💬 Ask me about my trip to Spain! :sunny:
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andresvidaurre/) or [email](andresmvidaurre@gmail.com)
+- 😄 Pronouns: they/them/theirs
+- ⚡ Fun fact: :sweat_drops: showers :sweat_drops: help with creativity!
+
+
 
 - 📫 How to reach me: LinkedIn **andresmvidaurre@gmail.com**
 
@@ -29,12 +37,6 @@
 
 
 ### Hi there 👋 I'm Andi!
-
-- 👯 I’m looking to collaborate on a webscraping and machine learning app that recognizes architecture styles based on user input.
-- 💬 Ask me about my trip to Spain! :sunny:
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/andresvidaurre/) or [email](andresmvidaurre@gmail.com)
-- 😄 Pronouns: they/them/theirs
-- ⚡ Fun fact: :sweat_drops: showers :sweat_drops: help with creativity!
 
 My name is Andres, but you can call me Andi :blush: I’m a certified Data Scientist with a keen interest in harassing the impact data can have in our daily lives. I’ve recently worked on a number of projects focused on Natural Language processing, Neural Networks and other supervised machine learning techniques. I have 7+ years experience with data analysis across various sectors including healthcare, non-profit, environmental, and government.
 
