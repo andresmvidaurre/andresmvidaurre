@@ -5,6 +5,7 @@ I’m a certified Data Scientist :computer: with a keen interest in harassing th
 I’m a very curious person with a constant hunger for learning. 𝘾𝙪𝙧𝙧𝙚𝙣𝙩 𝙏𝙚𝙘𝙝 𝙨𝙩𝙖𝙘𝙠:
 
 :bar_chart: Python
+
 :bar_chart: Tableau
 
 :bar_chart: SQL, MySQL, SQLite, PostgreSQL, SQLAlchemy
