@@ -30,7 +30,7 @@ I’m a very curious person with a constant hunger for learning :memo: 𝘾𝙪�
 
 :mag_right: I’m currently looking for opportunities where I can leverage my experience with Data Analysis with my machine learning knowledge to provide insight into meaningful and impactful client solutions.
 
-When I’m not behind a screen, I love capturing the world through my camera :camera:, catching up with friends on hikes :mount_fuji: and discovering new artists :art:. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/andresvidaurre/) or [email](andresmvidaurre@gmail.com), I’d love to chat!
+When I’m not behind a screen, I love capturing the world through my camera :camera:, catching up with friends on hikes :mount_fuji: and discovering new artists :art:. Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/andresvidaurre/) or [email](andresmvidaurre@gmail.com), I’d love to chat!:speech_balloon:
 
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@andresmvidaurre)
