@@ -4,8 +4,10 @@ I’m a certified Data Scientist with a keen interest in harassing the impact da
 
 I’m a very curious person with a constant hunger for learning. My current skills include:
 
-:sparkles: Python
-:sparkles: Tableau
+:bar_chart: Python
+
+:bar_chart: Tableau
+
 :sparkles: SQL, MySQL, SQLite, PostgreSQL, SQLAlchemy
 :sparkles: MongoDB, Non-relational Databases
 :sparkles: Natural Language Processing
