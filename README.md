@@ -8,15 +8,24 @@ I’m a very curious person with a constant hunger for learning. My current skil
 
 :bar_chart: Tableau
 
-:sparkles: SQL, MySQL, SQLite, PostgreSQL, SQLAlchemy
-:sparkles: MongoDB, Non-relational Databases
-:sparkles: Natural Language Processing
-:sparkles: Neural Networks
-:sparkles: Pandas, Numpy, Regular Expressions, Matplotlib, Seaborn, Plotly, Scikit-learn, XGBoost, TensorFlow, spaCy, PyTorch, Keras
-:sparkles: Flask
-:sparkles: Heroku
-:sparkles: Docker
-:sparkles: VS Code
+:bar_chart: SQL, MySQL, SQLite, PostgreSQL, SQLAlchemy
+
+:bar_chart: MongoDB, Non-relational Databases
+
+:bar_chart: Natural Language Processing
+
+:bar_chart: Neural Networks
+
+:bar_chart: Pandas, Numpy, Regular Expressions, Matplotlib, Seaborn, Plotly, Scikit-learn, XGBoost, TensorFlow, spaCy, PyTorch, Keras
+
+:bar_chart: Flask
+
+:bar_chart: Heroku
+
+:bar_chart: Docker
+
+:bar_chart: VS Code
+
 
 
 I’m currently looking for opportunities where I can leverage my experience with Data Analysis with my machine learning knowledge to provide insight into meaningful and impactful client solutions.
