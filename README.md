@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andi!</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=andresmvidaurre&label=Profile%20views&color=0e75b6&style=flat" alt="andresmvidaurre" /> </p>
+
 I’m a certified Data Scientist :computer: with a keen interest in harassing the impact data :chart_with_upwards_trend: can have in our daily lives. I’ve recently worked on a number of projects focused on Natural Language processing, Neural Networks and other supervised machine learning techniques. I have 7+ years experience with data analysis across various sectors including healthcare, non-profit, environmental, and government.
 
 I’m a very curious person with a constant hunger for learning :memo: 𝘾𝙪𝙧𝙧𝙚𝙣𝙩 𝙏𝙚𝙘𝙝 𝙨𝙩𝙖𝙘𝙠:
