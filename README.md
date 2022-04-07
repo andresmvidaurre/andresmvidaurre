@@ -57,6 +57,3 @@ When I’m not behind a screen, I love capturing the world through my camera :ca
 
 Profile Image Credit:
 <a href='https://www.freepik.com/vectors/online-trading'>Online trading vector created by pch.vector - www.freepik.com</a>
-
-Profile Image Credit:
-<a href='https://www.freepik.com/vectors/online-trading'>Online trading vector created by pch.vector - www.freepik.com</a>
