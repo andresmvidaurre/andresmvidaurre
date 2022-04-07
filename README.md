@@ -54,3 +54,5 @@ When I’m not behind a screen, I love capturing the world through my camera :ca
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andresmvidaurre&show_icons=true&locale=en" alt="andresmvidaurre" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andresmvidaurre&" alt="andresmvidaurre" /></p>
+
+<a href='https://www.freepik.com/vectors/online-trading'>Online trading vector created by pch.vector - www.freepik.com</a>
