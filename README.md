@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andresmvidaurre&label=Profile%20views&color=0e75b6&style=flat" alt="andresmvidaurre" /> </p>
 
-I’m a certified Data Scientist :computer: with a keen interest in harassing the impact data :chart_with_upwards_trend: can have in our daily lives. I’ve recently worked on a number of projects focused on Natural Language processing, Neural Networks and other supervised machine learning techniques. I have 7+ years experience with data analysis across various sectors including healthcare, non-profit, environmental, and government.
+I’m a certified Data Analyst :computer: with a keen interest in harassing the impact data :chart_with_upwards_trend: can have in our daily lives. I have 7+ years experience with data analysis across various sectors including healthcare, non-profit, environmental, and government.
 
 I’m a very curious person with a constant hunger for learning :memo: 𝘾𝙪𝙧𝙧𝙚𝙣𝙩 𝙏𝙚𝙘𝙝 𝙨𝙩𝙖𝙘𝙠:
 
@@ -30,7 +30,7 @@ I’m a very curious person with a constant hunger for learning :memo: 𝘾𝙪�
 
 
 
-:mag_right: I’m currently looking for opportunities where I can leverage my experience with Data Analysis with my machine learning knowledge to provide insight into meaningful and impactful client solutions.
+:mag_right: I’m currently looking for opportunities where I can leverage my experience with Data Analysis to provide insight into meaningful and impactful client solutions.
 
 When I’m not behind a screen, I love capturing the world through my camera :camera:, catching up with friends on hikes :mount_fuji: and discovering new artists :art:. Feel free to reach out to me via [**LinkedIn**](https://www.linkedin.com/in/andresvidaurre/) or [**email**](mailto:andresmvidaurre@gmail.com?subject=GitHub%20Reaching%20Out), I’d love to chat!:speech_balloon:
 
